@@ -1,7 +1,7 @@
 'use client';
+import Input from '@/components/Input';
 import React, { useRef } from 'react';
 import { useForm } from 'react-hook-form';
-import Input from './Input';
 
 interface RefFormProps {}
 
